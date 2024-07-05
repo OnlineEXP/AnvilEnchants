@@ -1,0 +1,7 @@
+{
+    "name": "AnvilEnchants",
+    "creator": "Kesler",
+    "description": "Highlights Combinable Enchantments In Hypixel Skyblock",
+    "version": "1",
+    "entry": "index.js"
+}
