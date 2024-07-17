@@ -28,4 +28,4 @@ AnvilEnchants is a ChatTriggers mod designed specifically for Hypixel Skyblock, 
    - Clone or download the AnvilEnchants repository from [GitHub](https://github.com/OnlineEXP/AnvilEnchants).
 
 4. **Move Files:**
-   - Place the AnvilEnchants folder into the ChatTriggers modules folder located in `.minecraft/ChatTriggers/modules`.
+   - Place the AnvilEnchants folder into the ChatTriggers modules folder located in `.minecraft/config/ChatTriggers/modules`.
